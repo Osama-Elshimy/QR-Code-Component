@@ -15,7 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-component-osama-elshimy.netlify.app/)
+- [LIVE DEMO](https://qr-code-component-osama-elshimy.netlify.app/)
+- [Challenge URL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
 
 ### Built with
 
