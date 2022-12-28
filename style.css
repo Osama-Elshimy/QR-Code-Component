@@ -24,7 +24,7 @@ body {
 
 	font-family: "Outfit", sans-serif;
 	font-weight: 400;
-	height: 100vh;
+	min-height: 100vh;
 	background-color: hsl(212, 45%, 89%);
 }
 
